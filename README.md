@@ -16,5 +16,10 @@ TEAM :
 - Mohamed salah 
 - Mohamed Soliman (soliman)
 
+-------------------- NOTE ----------------------------------
+THIS PROJECT IS STILL UNDERWOKING AND WILL BE UPDATED FREQUENTLY AND IT'S NOT THE lAST VERSION OF IT 
+THIS IS JUST A DEMO
+
+
 AUTHOR :
 MOHAMED MAHMOUD MOHAMED 
